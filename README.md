@@ -80,3 +80,7 @@ All the features are categorical
 * Epochs = 100
 * Validation data = 20% of training data
 
+## Evaluate the model
+
+* Accuracy score
+* Loss
