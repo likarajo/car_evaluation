@@ -16,6 +16,7 @@ Evaluate a car based on its characteristics using classification with Tensorflow
 * Numpy
 * Matplotlib
 * Seaborn
+* Scikit-learn
 
 `pip install -r requirements.txt`
 
